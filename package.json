@@ -1,0 +1,11 @@
+{
+  "name": "lib-interpolate",
+  "version": "0.0.0",
+  "description": "String Interpolation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jacob Groundwater <groundwater@gmail.com>",
+  "license": "MIT"
+}
